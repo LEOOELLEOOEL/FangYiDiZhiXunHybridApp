@@ -1,0 +1,165 @@
+{
+  "index.html": {
+    "resources": [
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "fonts/mui.ttf",
+      "css/main_css.css",
+      "js/mui.pullToRefresh.js",
+      "js/mui.pullToRefresh.material.js",
+      "css/pullrefresh.css",
+      "js/header_icon.js",
+      "js/jquery-2.2.3.min.js",
+      "js/mui.lazyload.js",
+      "js/mui.lazyload.img.js",
+      "pages/setting.html",
+      "img/touxiang.jpg",
+      "list.html",
+      "template.html",
+      "iconfont.css",
+      "iconfont.ttf",
+      "iconfont.woff",
+      "pages/barcode.html",
+      "img/pull_img.jpg",
+      "img/img1.jpg"
+    ],
+    "refer": [
+      "pages/guide.html",
+      "pages/setting.html",
+      "list.html",
+      "template.html",
+      "pages/barcode.html"
+    ]
+  },
+  "pages/guide.html": {
+    "resources": [
+      "img/app_share.jpg",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "img/QQ*ý20160611115950.png",
+      "img/guide_img1.png",
+      "img/guide_img3.png",
+      "img/guide_img2.png",
+      "img/QQ*ý20160611115950.png"
+    ],
+    "refer": []
+  },
+  "pages/setting.html": {
+    "resources": [
+      "css/feedback.css",
+      "js/feedback.js",
+      "js/mui.view.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "img/touxiang.jpg",
+      "index.html",
+      "img/yidianzixun_icon.jpg"
+    ],
+    "refer": [
+      "pages/guide.html",
+      "index.html",
+      "Login_register/login.html"
+    ]
+  },
+  "list.html": {
+    "resources": [
+      "img/touxiang.jpg",
+      "css/pullrefresh.css",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "js/mui.lazyload.js",
+      "js/mui.lazyload.img.js",
+      "css/main_css.css",
+      "js/mui.pullToRefresh.js",
+      "js/mui.pullToRefresh.material.js"
+    ],
+    "refer": []
+  },
+  "template.html": {
+    "resources": [
+      "js/mui.min.js"
+    ],
+    "refer": []
+  },
+  "Login_register/login.html": {
+    "resources": [
+      "Login_register/js/mui.enterfocus.js",
+      "Login_register/js/mui.min.js",
+      "Login_register/js/app.js",
+      "Login_register/css/mui.min.css",
+      "Login_register/css/style.css",
+      "Login_register/images/qq.png",
+      "Login_register/images/sinaweibo.png",
+      "Login_register/images/weixin.png",
+      "Login_register/fonts/mui.ttf"
+    ],
+    "refer": [
+      "Login_register/main.html",
+      "Login_register/reg.html",
+      "index.html",
+      "pages/setting.html",
+      "Login_register/forget_password.html"
+    ]
+  },
+  "Login_register/main.html": {
+    "resources": [
+      "Login_register/js/mui.min.js",
+      "Login_register/js/app.js",
+      "Login_register/css/mui.min.css"
+    ],
+    "refer": [
+      "Login_register/setting.html"
+    ]
+  },
+  "Login_register/reg.html": {
+    "resources": [
+      "Login_register/fonts/mui.ttf",
+      "Login_register/css/style.css",
+      "Login_register/js/mui.min.js",
+      "Login_register/js/app.js",
+      "Login_register/css/mui.min.css"
+    ],
+    "refer": []
+  },
+  "Login_register/setting.html": {
+    "resources": [
+      "Login_register/js/mui.locker.js",
+      "Login_register/js/feedback.js",
+      "Login_register/js/mui.view.js",
+      "Login_register/libs/easymob-webim-sdk/strophe-custom-2.0.0.js",
+      "Login_register/libs/easymob-webim-sdk/jquery-1.11.1.js",
+      "Login_register/css/feedback-page.css",
+      "Login_register/libs/easymob-webim-sdk/json2.js",
+      "Login_register/js/feedback-page.js",
+      "Login_register/libs/easymob-webim-sdk/easemob.im-1.0.5.js"
+    ],
+    "refer": []
+  },
+  "Login_register/forget_password.html": {
+    "resources": [
+      "Login_register/js/mui.min.js",
+      "Login_register/fonts/mui.ttf",
+      "Login_register/js/app.js",
+      "Login_register/css/mui.min.css",
+      "Login_register/css/style.css"
+    ]
+  },
+  "pages/barcode.html": {
+    "resources": [
+      "js/common.js",
+      "css/common.css",
+      "js/immersed.js",
+      "img/barcode.png"
+    ],
+    "refer": [
+      "pages/barcode_scan.html"
+    ]
+  },
+  "pages/barcode_scan.html": {
+    "resources": [
+      "js/common.js",
+      "css/common.css"
+    ]
+  }
+}

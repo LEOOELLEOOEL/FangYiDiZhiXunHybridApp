@@ -1,0 +1,55 @@
+.mui-content .mui-icon-contact{
+	color: #c4d5e8;
+	right:0 ;
+	font-size: 35px;
+	margin-top: 2px;
+	line-height: 40px;
+}
+.mui-content .mui-bar-nav{
+	background-color: #1299eb;
+	height: 9%;
+}
+.mui-table-view .mui-media-object{
+	height: 60px;
+
+}
+.mui-content input{
+	width: 100%;
+	height: 100%;
+	border-radius: 45px;
+	margin-left: 25%;
+	border: none;
+	margin-top:5%;
+	background-color: #0d79ba;
+	font-family: "微软雅黑";
+	font-size: 12px;
+	line-height: 18px;
+	text-indent: 15px;
+	color: #70bdec;
+}
+.mui-title{
+	font-family: "微软雅黑";
+	font-size: 18px;
+	top: 18%;
+}
+#slider{
+	margin-top: 15%;
+}
+.mui-input-row {
+	margin-left: 28%;
+	margin-top: 3.1%;
+	width: 62%;
+	height: 100%;
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+#mui-scroll-titile{
+	margin-left: 15px;
+}
+#mui-scroll-titile a{
+	margin-left: -20px;
+	
+	font-family: "微软雅黑";
+	font-size: 14px;
+	
+}
